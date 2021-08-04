@@ -14,7 +14,7 @@ The dataset was gathered from [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-a
 
 ## us-accidents.ipynb
 
-This file contains
+This is the Jupyter Notebook which contains the exploratory data analysis, data cleaning, and data engineering which was performed on Kaggle.
 
 ## Results and Application
 
