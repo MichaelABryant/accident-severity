@@ -2,7 +2,7 @@
 
 # Project 2: US Vehicle Accidents EDA (Python)
 
-This repository is for the analysis done on the Kaggle: US Vehicle Accidents dataset. Below you will find an overview of the data, code, and results. The goal of this project was to perform an exploratory data analysis (including the use of GeoPandas) and to prepare (i.e., clean and impute) for future predictive modeling use.
+This repository is for the analysis done on the Kaggle: US Vehicle Accidents dataset. Below you will find an overview of the data, code, and results. The goal of this project was to perform an exploratory data analysis (which included the use of GeoPandas) and to prepare (i.e., clean and impute) for future predictive modeling use.
 
 ## Vehicle Accidents Dataset
 
