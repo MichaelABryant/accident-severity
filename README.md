@@ -16,7 +16,7 @@ The dataset was gathered from [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-a
 
 This is the Jupyter Notebook which contains the exploratory data analysis, data cleaning, and data engineering which was performed on Kaggle.
 
-## Results and Application
+## Results
 
 ### EDA
 
@@ -64,7 +64,7 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 
 ### Data Engineering
 
-### Application
+## Applications
 
 ## Resources
 
