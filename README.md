@@ -20,6 +20,16 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 
 ### EDA
 
+| Ranked | Model | Untuned Performance |
+| :-: | :-: | :-: |
+| 7 | Naive Bayes | 60.4% |
+| 2 (Tie) | Logistic Regression | 83.3% |
+| 6 | Decision Tree | 70.6% |
+| 4 | K-Nearest Neighbors Classifier | 82.4% |
+| 2 (Tie) | Random Forest | 83.3% |
+| 1 | Support Vector Classifer | 85.1% |
+| 5 | XGBoost Classifer | 80.2% |
+
 <figure>
 <img src="Images/null-values.PNG">
   <figcaption></figcaption>
