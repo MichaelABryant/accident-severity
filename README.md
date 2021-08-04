@@ -21,7 +21,7 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 ###
 
 <figure>
-<img src="">
+<img src="Images/severity.jpg">
   <figcaption></figcaption>
 </figure>
 
