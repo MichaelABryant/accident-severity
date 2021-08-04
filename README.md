@@ -18,10 +18,20 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 
 ## Results and Application
 
-###
+### EDA
+
+<figure>
+<img src="Images/null-values.jpg">
+  <figcaption></figcaption>
+</figure>
 
 <figure>
 <img src="Images/severity.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="Images/state.jpg">
   <figcaption></figcaption>
 </figure>
 
