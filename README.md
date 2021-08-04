@@ -21,7 +21,7 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 ### EDA
 
 <figure>
-<img src="Images/null-values.jpg">
+<img src="Images/null-values.PNG">
   <figcaption></figcaption>
 </figure>
 
