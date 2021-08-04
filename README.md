@@ -2,4 +2,4 @@
 
 ## Resources
 
-1. [Kaggle | Vehicle dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
+1. [Kaggle: Vehicle dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
