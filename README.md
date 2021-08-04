@@ -20,15 +20,15 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 
 ### EDA
 
-| Ranked | Model | Untuned Performance |
+| Variable | Number of Null Values | Percentage of Variable Data |
 | :-: | :-: | :-: |
-| 7 | Naive Bayes | 60.4% |
-| 2 (Tie) | Logistic Regression | 83.3% |
-| 6 | Decision Tree | 70.6% |
-| 4 | K-Nearest Neighbors Classifier | 82.4% |
-| 2 (Tie) | Random Forest | 83.3% |
-| 1 | Support Vector Classifer | 85.1% |
-| 5 | XGBoost Classifer | 80.2% |
+| End_Lat | 282821 | 9.73% |
+| End_Lng | 282821 | 9.73% |
+| Number | 1891672 | 65.08% |
+| City | 108 | 0.0037% |
+| Zipcode | 1114 | 0.038% |
+| Timezone | 3430 | 0.12% |
+| Airport_Code | 6608 | 0.23% |
 
 <figure>
 <img src="Images/null-values.PNG">
