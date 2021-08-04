@@ -1,4 +1,4 @@
-<img src="Images/covid-banner.jpg">
+<img src="Images/car-accidents-banner.jpg">
 
 # Project 2: US Vehicle Accidents EDA (Python)
 
