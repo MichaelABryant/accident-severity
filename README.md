@@ -20,7 +20,7 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 
 ### EDA
 
-| Variable | Number of Null Values | Percentage of Variable Data |
+| **Variable** | **Number of Null Values** | **Percentage of Variable Data** |
 | :-: | :-: | :-: |
 | End_Lat | 282821 | 9.73% |
 | End_Lng | 282821 | 9.73% |
@@ -29,6 +29,13 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 | Zipcode | 1114 | 0.038% |
 | Timezone | 3430 | 0.12% |
 | Airport_Code | 6608 | 0.23% |
+| Weather_Timestamp | 46917 | 1.61% |
+| Temperature(F) | 67224 | 2.31% |
+| Wind_Chill(F) | 1183859 | 40.73% |
+| Humidity(%) | 71270 | 2.45% |
+| Pressure(in) | 56908 | 1.96% |
+| Visibility(mi) | 72078 | 2.48% |
+| Wind_Direction | 63474 | 2.18% |
 
 <figure>
 <img src="Images/null-values.PNG">
