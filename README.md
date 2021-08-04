@@ -18,30 +18,14 @@ This file contains
 
 ## Results and Application
 
-### COVID-19 World Summary Dashboard
-
-Figure 1 shows the dashboard for the COVID-19 World Summary created in Tableau. For the interactive version, [click here](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19WorldSummaryJuly312021/Dashboard1).
+###
 
 <figure>
-<img src="Images/COVID19-World-Summary.png">
-  <figcaption>Figure 1: COVID-19 World Summary dashboard created in Tableau.</figcaption>
-</figure>
-
-### COVID-19 US Summary Dashboard
-
-Figure 2 shows the dashboard for the COVID-19 US Summary created in Tableau. For the interactive version, [click here](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19USSummaryJuly312021/Dashboard1).
-
-<figure>
-<img src="Images/COVID-19-US-Summary.png">
-  <figcaption>Figure 2: COVID-19 US summary dashboard created in Tableau.</figcaption>
+<img src="">
+  <figcaption></figcaption>
 </figure>
 
 ### Application
-
-This project can help keep people informed about the current status of COVID-19. A website or app can be created as an interface. The query process and Tableau dashboard creation can be automated so that a user may select the region they are interested in and the variables they want to view.
-
-Specifically, the visualizations can help businesses, schools, and politicians make informed policy decisions for implementing closures or lockdowns to mitigate the spread of COVID-19. The hospitalization and ICU patient forecast visualizations can be used by medical institutions to ensure equipment and staffing needs are met.
-
 
 ## Resources
 
