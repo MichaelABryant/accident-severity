@@ -20,6 +20,8 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 
 ### EDA
 
+<center>
+  
 | **Variable** | **Number of Null Values** | **Percentage of Variable Data** |
 | :-: | :-: | :-: |
 | End_Lat | 282821 | 9.73% |
@@ -44,6 +46,8 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 | Nautical_Twilight | 110 | 0.0038% |
 | Astronomical_Twilight | 110 | 0.0038% |
 
+</center>
+  
 <figure>
 <img src="Images/severity.jpg">
   <figcaption></figcaption>
