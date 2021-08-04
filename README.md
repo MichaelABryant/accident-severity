@@ -36,11 +36,13 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 | Pressure(in) | 56908 | 1.96% |
 | Visibility(mi) | 72078 | 2.48% |
 | Wind_Direction | 63474 | 2.18% |
-
-<figure>
-<img src="Images/null-values.PNG">
-  <figcaption></figcaption>
-</figure>
+| Wind_Speed(mph) | 307163 | 10.57% |
+| Precipitation(in) | 1301326 | 44.77% |
+| Weather_Condition | 71851 | 2.47% |
+| Sunrise_Sunset | 110 | 0.0038% |
+| Civil_Twilight | 110 | 0.0038% |
+| Nautical_Twilight | 110 | 0.0038% |
+| Astronomical_Twilight | 110 | 0.0038% |
 
 <figure>
 <img src="Images/severity.jpg">
