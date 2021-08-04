@@ -2,4 +2,4 @@
 
 ## Resources
 
-1. [Kaggle: US Accidents (3 million records -- updated)](https://www.kaggle.com/sobhanmoosavi/us-accidents)
+1. [Kaggle: US Accidents dataset](https://www.kaggle.com/sobhanmoosavi/us-accidents)
