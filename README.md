@@ -25,7 +25,7 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 <table>
 
   
-| **Variable** | **Number of Null Values** | **Percentage of Variable Data** |
+| #### **Variable** | **Number of Null Values** | **Percentage of Variable Data** |
 | :-: | :-: | :-: |
 | End_Lat | 282821 | 9.73% |
 | End_Lng | 282821 | 9.73% |
