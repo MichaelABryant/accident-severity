@@ -57,7 +57,8 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 ### EDA
 
 I looked at distribution of data using histograms and bar plots. A correlation heatmap was used to find relationships between the numeric data. GeoPandas was used to explore geographic features. Below are some of the highlights from the exploratory data analysis.
-  
+
+<center>
 <figure>
 <img src="Images/severity.jpg">
   <figcaption>Figure 1: Histogram of accident severity</figcaption>
@@ -128,6 +129,8 @@ I looked at distribution of data using histograms and bar plots. A correlation h
 <img src="Images/corr-heatmap.jpg">
   <figcaption>Figure 12: Correlation heatmap for numeric data showing low correlations with most variables</figcaption>
 </figure>
+  
+</center>
 
 ### Data Cleaning
 
