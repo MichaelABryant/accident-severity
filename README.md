@@ -72,7 +72,8 @@ I looked at distribution of data using histograms and bar plots. A correlation h
 
 I cleaned the data to make the dataset usable for future modeling. I made the following changes:
 * Replaced missing `Side` value with mode
-* Combined multiple `Weather_Condition` descriptions due to similarity, replaced 'N/A Precipitation' with mode
+* Combined multiple `Weather_Condition` descriptions due to similarity
+  * Replaced 'N/A Precipitation' with mode
 * Made `Wind_Direction` entry notation consistent
 * Made all `Zipcode` entries five digits
 * Removed `Number`
@@ -82,7 +83,7 @@ I cleaned the data to make the dataset usable for future modeling. I made the fo
 * Imputed missing `Timezone` data using timezonerfinder and lat/lng
 * Imputed missing `End_Lat` and `End_Lng` data using `Start_Lat` and `Start_Lng` data, respectively
 * Imputed missing `Wind_Chill(F)` data using `Temperature(F)` data, and vice versa
-  * Imputed remaining `Temperature(F)` and `Wind_Chill(F)`
+  * Imputed remaining `Temperature(F)` and `Wind_Chill(F)` data with median
 * Imputed missing `Weather_Timestamp` data with `End_Time` data
 * Imputed missing `Humidity(%)`, `Pressure(in)`, `Visibility(mi)`, `Wind_Speed(mph)`, and `Precipitation(in)` data with median
 * Imputed missing `Wind_Direction`, `Weather_Condition`, `Sunrise_Sunset`, `Civil_Twilight`, `Nautical_Twilight`, and `Astronomical_Twilight` data with mode
