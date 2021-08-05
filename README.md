@@ -97,7 +97,7 @@ I feature engineered using the dataset for future modeling. I made the following
 * Used CountVectorizer for string data in `Description`
 * Seperated dataframe into features (X) and target (i.e., `Severity`) (y)
 
-The end result is a features sparse matrix of dimensions and a target sparse matrix of dimensions.
+The end result is a features sparse matrix of dimensions (2906610, 293746) and a target sparse matrix of dimensions (2906610, 4).
  
 
 ## Applications
