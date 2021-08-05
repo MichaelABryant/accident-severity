@@ -76,7 +76,7 @@ I cleaned the data to make the dataset usable for future modeling. I made the fo
   * Replaced 'N/A Precipitation' with mode
 * Made `Wind_Direction` entry notation consistent
 * Made all `Zipcode` entries five digits
-* Removed `Number`
+* Removed `ID` and `Number`
 * Imputed missing `City` and `Zipcode` data using geolocator and lat/lng
   * If `Zipcode` data could not be located then missing values were replaced with the mode for the state
 * Imputed missing `Airport_Code` data with the mode for the state
@@ -87,6 +87,15 @@ I cleaned the data to make the dataset usable for future modeling. I made the fo
 * Imputed missing `Weather_Timestamp` data with `End_Time` data
 * Imputed missing `Humidity(%)`, `Pressure(in)`, `Visibility(mi)`, `Wind_Speed(mph)`, and `Precipitation(in)` data with median
 * Imputed missing `Wind_Direction`, `Weather_Condition`, `Sunrise_Sunset`, `Civil_Twilight`, `Nautical_Twilight`, and `Astronomical_Twilight` data with mode
+
+
+### Featured Engineering
+
+I feature engineered using the dataset for future modeling. I made the following changes:
+* Seperated datetime data into seperate columns for day, month, year, hour, minute, and second for `Start_Time`, `End_Time`, and `Weather_Timestamp`
+* Used OneHotEncoder for categorical variables
+* Used CountVectorizer for string data in `Description`
+* Seperated dataframe into features (X) and target (i.e., `Severity`) (y)
  
 
 ## Applications
