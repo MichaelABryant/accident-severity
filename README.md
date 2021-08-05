@@ -68,7 +68,7 @@ I cleaned the data to make the dataset usable for future modeling. I made the fo
 
 ## Applications
 
-The preprocessed data from this project can be used to predict the severity of an accident given the location, date, time, and weather conditions. An application of this is to ensure emergency responders are prepared to handle severe accidents. This would be similar to wildfire warnings for fire departments, but instead this model would output accident severity warnings to emergency medical services. To productionize this, you could scan over an area using longitude and latitude, and assign a severity measurement to each point given the date, time, and forecasted weather conditions. The output could be a severity density map of the specified region.
+The visualizations from this project can be used to create reports for city planners for reaccessing speed limits and road design based on accident severity, frequency, and typical weather conditions during these accidents. The preprocessed data from this project can be used to predict the severity of an accident given the location, date, time, and weather conditions. An application of this is to ensure emergency responders are prepared to handle severe accidents. This would be similar to wildfire warnings for fire departments, but instead this model would output accident severity warnings to emergency medical services. To productionize this, you could scan over an area using longitude and latitude, and assign a severity measurement to each point given the date, time, and forecasted weather conditions. The output could be a severity density map of the specified region.
 
 ## Resources
 
