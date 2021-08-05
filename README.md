@@ -217,7 +217,7 @@ I feature engineered using the dataset for future modeling. I made the following
 * Seperated datetime data into seperate columns for day, month, year, hour, minute, and second for `Start_Time`, `End_Time`, and `Weather_Timestamp`
 * Used OneHotEncoder for categorical variables
 * Used CountVectorizer for string data in `Description`
-* Seperated dataframe into features (X) and target (i.e., `Severity`) (y)
+* Seperated dataframe into features (X) and the `Severity` target (y)
 
 The end result is a features sparse matrix of dimensions (2906610, 293746) and a target sparse matrix of dimensions (2906610, 4).
  
