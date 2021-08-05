@@ -64,7 +64,57 @@ I looked at distribution of data using histograms and bar plots. A correlation h
 </figure>
 
 <figure>
+<img src="Images/severity-geopandas.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
 <img src="Images/state.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="Images/county.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="Images/city.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="Images/street.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="Images/year.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="Images/month.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="Images/hour.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="Images/weather-condition.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="Images/wind-direction.jpg">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="Images/corr-heatmap.jpg">
   <figcaption></figcaption>
 </figure>
 
