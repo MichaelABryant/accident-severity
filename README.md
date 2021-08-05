@@ -68,7 +68,7 @@ I cleaned the data to make the dataset usable for future modeling. I made the fo
 
 ## Applications
 
-This project can be used to predict the severity of an accident given the location, date, time, and weather conditions. An application of this is to ensure emergency responders are prepared to handle severe accidents. This would be similar to wildfire warnings for fire departments, but instead this model would output accident severity warnings to emergency medical services. 
+This project can be used to predict the severity of an accident given the location, date, time, and weather conditions. An application of this is to ensure emergency responders are prepared to handle severe accidents. This would be similar to wildfire warnings for fire departments, but instead this model would output accident severity warnings to emergency medical services. To productionize this, you could scan over an area using longitude and latitude, and assign a severity measurement to each point on a map given the date, time, and forecasted weather conditions.
 
 ## Resources
 
