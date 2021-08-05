@@ -68,6 +68,8 @@ I cleaned the data to make the dataset usable for future modeling. I made the fo
 
 ## Applications
 
+This project can be used to predict the severity of an accident given the location, date, time, and weather conditions. An application of this is to ensure emergency responders are prepared to handle severe accidents. This would be similar to wildfire warnings for fire departments, but instead this model would output accident severity warnings to first responders. 
+
 ## Resources
 
 1. [Kaggle: US Accidents (3 million records -- updated)](https://www.kaggle.com/sobhanmoosavi/us-accidents)
