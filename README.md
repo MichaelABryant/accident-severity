@@ -49,6 +49,8 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 ## Results
 
 ### EDA
+
+I looked at distribution of data using histograms and bar plots. A correlation heatmap was used to find relationships between the numeric data. GeoPandas was used to explore geographic features. Below are some of the highlights from the exploratory data analysis.
   
 <figure>
 <img src="Images/severity.jpg">
@@ -62,7 +64,7 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 
 ### Data Cleaning
 
-### Data Engineering
+I cleaned the data to make the dataset usable for future modeling. I made the following changes:
 
 ## Applications
 
