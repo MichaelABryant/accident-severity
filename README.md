@@ -60,13 +60,6 @@ I looked at distribution of data using histograms and bar plots. A correlation h
 
 According to Figure 1, accidents are most likely to be reported with a severity of 2 (where 1 is least severe and 4 is most). Figure 2 is useful for visualizing where accidents occur. It is similar to a population density map with the exception of the freeway systems where accidents are likely due to high speeds.
 
-Figures 3 through 6 reinforce the idea that accidents are most likely to occur in populated areas and on freeways where Los Angeles county has the most accidents of any US county, Houston and Los Angeles are the cities where accidents are most likely to occur, and the west coast's I-5 is the freeway with the most accidents.
-
-The most interesting find of the analysis was that accidents are increasing each year and are doing so non-linearly with the inclusion of 2020 as shown in Figure 7. The only explanation I could find for this was that the streets were less crowded due to COVID-19 lockdowns causing drivers to drive at higher speeds.
-
-According to Figures 8 and 9, accidents are most likely to occur in Janurary and Decemeber at around 8 AM and at 4 PM. Figures 10 and 11 show that the most common weather conditions to get in an accident in is fair and clear with no wind.
-
-Finally, the correlation heatmap for the numeric variables indicate low correlations between variables besides for latitude and longitude. The only exception being temperature and wind chill where it is almost exactly a linear relationship at 0.99 correlation.
 
 <div align="center">
   
@@ -75,6 +68,10 @@ Finally, the correlation heatmap for the numeric variables indicate low correlat
   <figcaption>Figure 1: Histogram of accident severity</figcaption>
 </figure>
 <br/><br/>
+  
+</div>
+
+<div align="center">
 
 <figure>
 <img src="Images/severity-geopandas.jpg">
@@ -82,11 +79,21 @@ Finally, the correlation heatmap for the numeric variables indicate low correlat
 </figure>
 <br/><br/>
 
+</div>
+
+Figures 3 through 6 reinforce the idea that accidents are most likely to occur in populated areas and on freeways where Los Angeles county has the most accidents of any US county, Houston and Los Angeles are the cities where accidents are most likely to occur, and the west coast's I-5 is the freeway with the most accidents.
+
+<div align="center">
+
 <figure>
 <img src="Images/state.jpg">
   <figcaption>Figure 3: Histogram of US states with most accidents</figcaption>
 </figure>
 <br/><br/>
+
+</div>
+
+<div align="center">
 
 <figure>
 <img src="Images/county.jpg">
@@ -94,11 +101,19 @@ Finally, the correlation heatmap for the numeric variables indicate low correlat
 </figure>
 <br/><br/>
 
+</div>
+
+<div align="center">
+
 <figure>
 <img src="Images/city.jpg">
   <figcaption>Figure 5: Histogram of US cities with most accidents</figcaption>
 </figure>
 <br/><br/>
+
+</div>
+
+<div align="center">
 
 <figure>
 <img src="Images/street.jpg">
@@ -106,11 +121,23 @@ Finally, the correlation heatmap for the numeric variables indicate low correlat
 </figure>
 <br/><br/>
 
+</div>
+
+The most interesting find of the analysis was that accidents are increasing each year and are doing so non-linearly with the inclusion of 2020 as shown in Figure 7. The only explanation I could find for this was that the streets were less crowded due to COVID-19 lockdowns causing drivers to drive at higher speeds.
+
+<div align="center">
+
 <figure>
 <img src="Images/year.jpg">
   <figcaption>Figure 7: Histogram of year for accidents indicated an increase of accidents over time</figcaption>
 </figure>
 <br/><br/>
+
+</div>
+
+According to Figures 8 and 9, accidents are most likely to occur in Janurary and Decemeber at around 8 AM and at 4 PM.
+
+<div align="center">
 
 <figure>
 <img src="Images/month.jpg">
@@ -118,11 +145,21 @@ Finally, the correlation heatmap for the numeric variables indicate low correlat
 </figure>
 <br/><br/>
 
+</div>
+
+<div align="center">
+
 <figure>
 <img src="Images/hour.jpg">
   <figcaption>Figure 9: Histogram of hour for accidents indicating accidents are more likely to occur mid-morning or mid-afternoon</figcaption>
 </figure>
 <br/><br/>
+
+</div>
+
+Figures 10 and 11 show that the most common weather conditions to get in an accident in is fair and clear with no wind.
+
+<div align="center">
 
 <figure>
 <img src="Images/weather-condition.jpg">
@@ -130,11 +167,21 @@ Finally, the correlation heatmap for the numeric variables indicate low correlat
 </figure>
 <br/><br/>
 
+</div>
+
+<div align="center">
+
 <figure>
 <img src="Images/wind-direction.jpg">
   <figcaption>Figure 11: Histogram of wind direction for accidents indicating accidents are most likely to occur with no wind present</figcaption>
 </figure>
 <br/><br/>
+
+</div>
+
+Finally, the correlation heatmap for the numeric variables in Figure 12 indicates low correlations between variables besides for latitude and longitude. The only exception being temperature and wind chill where it is almost exactly a linear relationship at 0.99 correlation.
+
+<div align="center">
 
 <figure>
 <img src="Images/corr-heatmap.jpg">
