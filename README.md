@@ -4,6 +4,11 @@
 
 This repository is for the analysis done on the Kaggle: US Vehicle Accidents dataset. Below you will find an overview of the data, code, and results. The goal of this project was to perform an exploratory data analysis (which included the use of GeoPandas) and to preprocess the data (i.e., clean, impute, and feature engineer) for future predictive modeling use.
 
+### Code Used 
+**Python Version:** 3.7  
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, warnings, sys, datetime, geopandas, geoplot, scipy
+**For Web Framework Requirements:**  ```pip install -r requirements.txt```  
+
 ## Vehicle Accidents Dataset
 
 The dataset was gathered from [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents) and, at the time of collection, spanned from February 2016 to December 2020. The dataset contained 47 variables and 2,906,610 accident records.
