@@ -56,7 +56,17 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 
 ### EDA
 
-I looked at distribution of data using histograms and bar plots. A correlation heatmap was used to find relationships between the numeric data. GeoPandas was used to explore geographic features. Below are some of the highlights from the exploratory data analysis. For these visualizations, a sample of the data was used due to the dataset being 1 GB in size. According to Figure 1, accidents are most likely to be reported with a severity of 2 (where 1 is least severe and 4 is most). Figure 2 is useful for visualizing where accidents occur. It is similar to a population density map with the exception of the freeway systems where accidents are likely due to high speeds. Figures 3 through 6 reinforce the idea that accidents are most likely to occur in populated areas and on freeways where Los Angeles county has the most accidents of any US county, Houston and Los Angeles are the cities where accidents are most likely to occur, and the west coast's I-5 is the freeway with the most accidents. The most interesting find of the analysis was that accidents are increasing each year and are doing so non-linearly with the inclusion of 2020 as shown in Figure 7. The only explanation I could find for this was that the streets were less crowded due to COVID-19 lockdowns causing drivers to drive at higher speeds. According to Figures 8 and 9, accidents are most likely to occur in Janurary and Decemeber at around 8 AM and at 4 PM. Figures 10 and 11 show that the most common weather conditions to get in an accident in is fair and clear with no wind. Finally, the correlation heatmap for the numeric variables indicate low correlations between variables besides for latitude and longitude. The only exception being temperature and wind chill where it is almost exactly a linear relationship at 0.99 correlation.
+I looked at distribution of data using histograms and bar plots. A correlation heatmap was used to find relationships between the numeric data. GeoPandas was used to explore geographic features. Below are some of the highlights from the exploratory data analysis. For these visualizations, a sample of the data was used due to the dataset being 1 GB in size.
+
+According to Figure 1, accidents are most likely to be reported with a severity of 2 (where 1 is least severe and 4 is most). Figure 2 is useful for visualizing where accidents occur. It is similar to a population density map with the exception of the freeway systems where accidents are likely due to high speeds.
+
+Figures 3 through 6 reinforce the idea that accidents are most likely to occur in populated areas and on freeways where Los Angeles county has the most accidents of any US county, Houston and Los Angeles are the cities where accidents are most likely to occur, and the west coast's I-5 is the freeway with the most accidents.
+
+The most interesting find of the analysis was that accidents are increasing each year and are doing so non-linearly with the inclusion of 2020 as shown in Figure 7. The only explanation I could find for this was that the streets were less crowded due to COVID-19 lockdowns causing drivers to drive at higher speeds.
+
+According to Figures 8 and 9, accidents are most likely to occur in Janurary and Decemeber at around 8 AM and at 4 PM. Figures 10 and 11 show that the most common weather conditions to get in an accident in is fair and clear with no wind.
+
+Finally, the correlation heatmap for the numeric variables indicate low correlations between variables besides for latitude and longitude. The only exception being temperature and wind chill where it is almost exactly a linear relationship at 0.99 correlation.
 
 <div align="center">
   
