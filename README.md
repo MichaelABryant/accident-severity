@@ -60,62 +60,62 @@ I looked at distribution of data using histograms and bar plots. A correlation h
   
 <figure>
 <img src="Images/severity.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 1: Histogram of accident severity</figcaption>
 </figure>
 
 <figure>
 <img src="Images/severity-geopandas.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 2: US map with accidents where hue indicates severity</figcaption>
 </figure>
 
 <figure>
 <img src="Images/state.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 3: Histogram of US states with most accidents</figcaption>
 </figure>
 
 <figure>
 <img src="Images/county.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 4: Histogram of US counties with most accidents</figcaption>
 </figure>
 
 <figure>
 <img src="Images/city.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 5: Histogram of US cities with most accidents</figcaption>
 </figure>
 
 <figure>
 <img src="Images/street.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 6: Histogram of US streets with most accidents</figcaption>
 </figure>
 
 <figure>
 <img src="Images/year.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 7: Histogram of year for accidents indicated an increase of accidents over time</figcaption>
 </figure>
 
 <figure>
 <img src="Images/month.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 8: Histogram of month for accidents indicating accidents are more likely to occur during January and Decemeber than any other month</figcaption>
 </figure>
 
 <figure>
 <img src="Images/hour.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 9: Histogram of hour for accidents indicating accidents are more likely to occur mid-morning or mid-afternoon</figcaption>
 </figure>
 
 <figure>
 <img src="Images/weather-condition.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 10: Histogram of weather conditions for accidents indicating accidents are most likely to occur during non-extreme conditions</figcaption>
 </figure>
 
 <figure>
 <img src="Images/wind-direction.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 11: Histogram of wind direction for accidents indicating accidents are most likely to occur with no wind present</figcaption>
 </figure>
 
 <figure>
 <img src="Images/corr-heatmap.jpg">
-  <figcaption></figcaption>
+  <figcaption>Figure 12: Correlation heatmap for numeric data showing low correlations with most variables</figcaption>
 </figure>
 
 ### Data Cleaning
