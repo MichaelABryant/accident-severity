@@ -230,4 +230,4 @@ The visualizations from this project can be used to create reports for city plan
 
 1. [Kaggle: US Accidents (3 million records -- updated)](https://www.kaggle.com/sobhanmoosavi/us-accidents)
 2. [DiTomaso Law: Cherry Hill Car Accident Lawyers](https://www.ditomasolaw.com/practice-areas/car-accidents/multi-vehicle-auto-accidents/)
-3. [Github: PlayingNumbers - ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
+3. [GitHub: PlayingNumbers - ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
