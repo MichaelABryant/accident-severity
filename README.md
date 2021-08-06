@@ -56,7 +56,7 @@ This is the Jupyter Notebook which contains the exploratory data analysis, data 
 
 ### EDA
 
-I looked at distribution of data using histograms and bar plots. A correlation heatmap was used to find relationships between the numeric data. GeoPandas was used to explore geographic features. Below are some of the highlights from the exploratory data analysis. For these visualizations, a sample of the data was used due to the dataset being 1 GB in size.
+I looked at the distribution of data using histograms and bar plots. A correlation heatmap was used to find relationships between the numeric data. GeoPandas was used to explore geographic features. Below are some of the highlights from the exploratory data analysis. For these visualizations, a sample of the data was used due to the dataset being 1 GB in size.
 
 According to Figure 1, accidents are most likely to be reported with a severity of 2 (where 1 is least severe and 4 is most). Figure 2 is useful for visualizing where accidents occur. It is similar to a population density map with the exception of the freeway systems where accidents are likely due to high speeds.
 
