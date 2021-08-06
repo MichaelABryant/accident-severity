@@ -7,7 +7,7 @@ This repository is for the analysis done on the Kaggle: US Vehicle Accidents dat
 ### Code Used 
 
 **Python Version:** 3.7.10 <br />
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, warnings, sys, datetime, geopandas, geoplot, scipy <br />
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, warnings, datetime, geopandas, geoplot, scipy <br />
 **For Web Framework Requirements:**  ```pip install -r requirements.txt```  
 
 ## Vehicle Accidents Dataset
