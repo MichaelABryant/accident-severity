@@ -212,12 +212,13 @@ I cleaned the data to make the dataset usable for future modeling. I made the fo
 ### Featured Engineering
 
 I feature engineered using the dataset for future modeling. I made the following changes:
+* Created two columns for the absolute value of the difference between `End_Lng` and `Start_Lng`, and `End_Lat` and `Start_Lat`
 * Seperated datetime data into seperate columns for day, month, year, hour, minute, and second for `Start_Time`, `End_Time`, and `Weather_Timestamp`
 * Used OneHotEncoder for categorical variables
 * Used CountVectorizer for string data in `Description`
 * Seperated dataframe into features (X) and the `Severity` target (y)
 
-The end result is a features sparse matrix of dimensions (2906610, 293746) and a target sparse matrix of dimensions (2906610, 4).
+The end result is a features sparse matrix of dimensions (2906610, 293748) and a target sparse matrix of dimensions (2906610, 4).
  
 
 ## Applications
