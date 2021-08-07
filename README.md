@@ -212,7 +212,7 @@ I cleaned the data to make the dataset usable for future modeling. I made the fo
 ### Feature Engineering
 
 I feature engineered using the dataset for future modeling. I made the following changes:
-* Created two columns for the absolute value of the changes for longitude and latitude using `End_Lng`, `Start_Lng`, `End_Lat`, and `Start_Lat`
+* Created two columns for the absolute values of the changes in longitude and latitude using `End_Lng`, `Start_Lng`, `End_Lat`, and `Start_Lat`
 * Seperated datetime data into seperate columns for day, month, year, hour, minute, and second for `Start_Time`, `End_Time`, and `Weather_Timestamp`
 * Used OneHotEncoder for categorical variables
 * Used CountVectorizer for string data in `Description`
