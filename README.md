@@ -209,7 +209,7 @@ I cleaned the data to make the dataset usable for future modeling. I made the fo
 * Imputed missing `Wind_Direction`, `Weather_Condition`, `Sunrise_Sunset`, `Civil_Twilight`, `Nautical_Twilight`, and `Astronomical_Twilight` data with mode
 
 
-### Featured Engineering
+### Feature Engineering
 
 I feature engineered using the dataset for future modeling. I made the following changes:
 * Created two columns for the absolute value of the changes for longitude and latitude using `End_Lng`, `Start_Lng`, `End_Lat`, and `Start_Lat`
