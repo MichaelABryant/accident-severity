@@ -1,4 +1,4 @@
-# Project 7: US Vehicle Accident Severity Prediction (Python)
+# Project 5: US Vehicle Accident Severity Prediction (Python)
 
 This repository is for the analysis done on the Kaggle: US Vehicle Accidents dataset. Below you will find an overview of the data, code, and results. The goal of this project was to perform an exploratory data analysis and to prepare the data (i.e., clean and feature engineer) for future predictive modeling use.
 
