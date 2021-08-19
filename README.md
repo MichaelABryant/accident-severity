@@ -214,13 +214,7 @@ I cleaned the data to make the dataset usable for future modeling. I made the fo
 I feature engineered using the dataset for future modeling. I made the following changes:
 * Created two columns for the absolute values of the changes in longitude and latitude using `End_Lng`, `Start_Lng`, `End_Lat`, and `Start_Lat`
 * Seperated datetime data into seperate columns for day, month, year, hour, minute, and second for `Start_Time`, `End_Time`, and `Weather_Timestamp`
-* Used OneHotEncoder for categorical variables
-* Used CountVectorizer for string data in `Description`
-* Seperated dataframe into features (X) and the `Severity` target (y)
-
-The end result is a features sparse matrix of dimensions (2906610, 293748) and a target sparse matrix of dimensions (2906610, 4).
  
-
 ## Applications
 
 The visualizations from this project can be used to create reports for city planners for reaccessing speed limits and road design based on accident severity, frequency, and typical weather conditions during these accidents. The prepared data from this project can be used to predict the severity of an accident given the location, date, time, and weather conditions. An application of this is to ensure emergency responders are prepared to handle severe accidents. This would be similar to wildfire warnings for fire departments, but instead this model would output accident severity warnings to emergency medical services. To productionize this, you could scan over an area using longitude and latitude, and assign a severity measurement to each point given the date, time, and forecasted weather conditions. The output could be a severity density map of the specified region.
